@@ -24,7 +24,6 @@
 
  <hr/>
 
-
 <div align="center" style="display: flex; justify-content: space-evenly; gap: 2rem; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajjikaur&layout=compact&theme=tokyonight" alt="Top Languages" width="290" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=rajjikaur&theme=radical" alt="GitHub Streak" width="400"/>
